@@ -2,4 +2,4 @@
 
 /archivos/*txt
 
-node_modeules/
+node_modules/
